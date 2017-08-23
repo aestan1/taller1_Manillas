@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller1_Manillas</string>
+    <string name="calcular">Calculate</string>
+    <string name="mensaje1">Choose the characteristics of your Handle:</string>
+    <string name="mensaje2">Quantity desired</string>
+    <string name="precioTotal">Total price:</string>
+    <string name="precioUnitario">Unit price:</string>
+    <string name="titulo">BraceletApp</string>
+</resources>
